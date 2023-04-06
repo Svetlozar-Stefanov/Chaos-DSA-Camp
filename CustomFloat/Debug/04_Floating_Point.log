@@ -1,0 +1,8 @@
+﻿  04_Floating_Point.cpp
+D:\Projects\Projects\ChaosAlgCamp\04_Floating_Point\04_Floating_Point\04_Floating_Point.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Projects\ChaosAlgCamp\04_Floating_Point\04_Floating_Point\04_Floating_Point.cpp(24,64): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  04_Floating_Point.vcxproj -> D:\Projects\Projects\ChaosAlgCamp\04_Floating_Point\Debug\04_Floating_Point.exe
